@@ -1,11 +1,11 @@
 # Welcome to RailsGirls git exercises
 
-This repository contains basic files for git exercisess. You should create a fork under your github account and then start working on exercisess below.
+This repository contains basic files for git exercises. You should create a fork under your github account and then start working on exercises below.
 
 ## Task #1 - setup your fork and clone it to your local machine
 
 - [ ] create github account
-- [ ] navigate to https://github.com/rgbrno/git-exercisess
+- [ ] navigate to https://github.com/rgbrno/git-exercises
 - [ ] click Fork button in right upper corner
 - [ ] clone to your local machine by running `git clone git@github.com:<your nick>/git-exercises`
 

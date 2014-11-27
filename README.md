@@ -7,6 +7,7 @@ This repository contains basic files for git exercises. You should create a fork
 - [ ] create github account
 - [ ] navigate to https://github.com/rgbrno/git-exercises
 - [ ] click Fork button in right upper corner
+- [ ] Add ssh key here https://github.com/settings/ssh (help available at https://help.github.com/articles/generating-ssh-keys)
 - [ ] clone to your local machine by running `git clone git@github.com:<your nick>/git-exercises`
 
 ## Task #2 - update this readme
